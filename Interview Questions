@@ -1,1 +1,41 @@
+#####################   Quiz-1 ###################
+
+1. What IAM is used for ?
+2. Define the following
+• IAM User
+• IAM Group
+• IAM Policy
+• IAM Role
+2. What is MFA (Multi-Factor Authentication)
+
+
+
+################    Quiz-2    ######################
+
+1. What is EC2 ?
+2. Key pair ?
+3. What is AMI?
+4. What is Instance type ?
+5. Types of Instance families ?
+6. What is placement group ?
+7. Difference between Stop and Terminate in EC2?
+8. Different purchasing options in EC2 ?
+9. Security Group rules ?
+
+
+
+#############    Quiz-3     ####################
+
+1. Define EBS ?
+2. What are the volume types for EBS ?
+3. Difference between AMI and EBS snapshots ?
+4. Can an EBS volume attach to 2 or more instances at a time ?
+5. Can EBS volume can be attached to an EC2 instance which are in different availability
+zone ?
+6. Once you define volume size (e.g. 10 GB), is it possible to decrease the volume to 8 GB or
+less ? And is it possible to Increase to 12 GB or more ?
+7. Is it possible to detach the ebs volume from the instance ?
+8. Public IP , Private IP & Elastic IP
+9. What is IAM user
+
 

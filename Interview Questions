@@ -48,5 +48,26 @@ less ? And is it possible to Increase to 12 GB or more ?
 
 ###############    Quiz-5    #####################
 
+1. What are bucket naming guidelines ?
+2. What is a bucket and object ?
+3. What is versioning in S3 ?
+4. Different storage classes and their uses ?
+5. What is Lifecycle management ?
+6. Cross region and same region replication ?
+7. Static website hosting.
+
+
+###############    Quiz-6  ########################
+
+1. What is VPC
+2. What are the VPC Components ?
+3. Difference between public and private Subnet ?
+4. Internet Gateway ?
+5. Define Route Table?
+6. Differences between Security Group and NACL ?
+7. What is NAT and types of NAT in VPC ?
+8. Difference between NAT instance and NAT Gateway ?
+9. VPC Flow Logs ?
+10. VPC Peering ?
 
 

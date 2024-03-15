@@ -70,4 +70,16 @@ less ? And is it possible to Increase to 12 GB or more ?
 9. VPC Flow Logs ?
 10. VPC Peering ?
 
+###################  Quiz-7  ######################
+
+1. Why Elastic Load Balancer used
+2. What are the functionalities of ELB other than balancing the traffic
+3. What are the types of Elastic Load Balancer and how are they different from each other
+4. Difference between Internet and Internal Load balancer
+5. What is cross-zonal load balancing
+6. Is it possible to register Targets (EC2 instances) after the creation of Elastic load balancer with target group
+7. Define Auto-scaling feature
+8. Can an Auto Scaling can have 2 Launch configuration at a time
+9. Once auto scaling is created, is it possible to change the Launch configuration for that
+auto scaling
 

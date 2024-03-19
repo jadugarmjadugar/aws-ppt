@@ -7,3 +7,13 @@ service httpd start
 chkconfig httpd on
 cd /var/www/html
 echo "<html><body>IP address of this instance: $(hostname)" > index.html
+
+
+
+######################### Option -2 (Nginx) #############################
+
+#!/bin/bash
+yum update -y
+yum install nginx -y
+sudo systemctl enable nginx
+sudo systemctl start nginx

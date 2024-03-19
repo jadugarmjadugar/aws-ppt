@@ -1,0 +1,5 @@
+######################### Nginx Basic web page ##############################
+
+#!/bin/bash
+sudo yum install nginx
+echo "Hi karan, I am hosted on $(hostname)" > /var/www/html/index.html

@@ -1,0 +1,8 @@
+Public to private
+
+1. Changing the permission of the private key 
+chmod 400 <privatre key>
+
+2. Ssh into private instance
+
+ssh -i <private key> <username>@<private ip of private instance>

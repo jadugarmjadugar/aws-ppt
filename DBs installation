@@ -1,0 +1,8 @@
+######################  RDS  ##################################
+
+https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_GettingStarted.CreatingConnecting.MySQL.html#CHAP_GettingStarted.Connecting.MySQL
+
+
+####################  Redis  ################################
+
+https://docs.aws.amazon.com/AmazonElastiCache/latest/red-ug/nodes-connecting.html

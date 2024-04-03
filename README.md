@@ -1,2 +1,2 @@
-YouTube: [Link](https://www.youtube.com/@DevopsWorking)
+YouTube: [Link](https://www.youtube.com/@DevopsWorking) - Learn and subscribe
 Jenkins: Bootcamp

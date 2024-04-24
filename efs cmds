@@ -23,3 +23,4 @@ sudo - root
 touch - create files
 vi - change/edit files
 yum/apt- to install
+!wq - to save file

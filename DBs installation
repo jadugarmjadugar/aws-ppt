@@ -2,6 +2,8 @@
 
 https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_GettingStarted.CreatingConnecting.MySQL.html#CHAP_GettingStarted.Connecting.MySQL
 
+sudo dnf install mariadb105
+mysql -h endpoint -P 3306 -u admin -p
 
 ####################  Redis  ################################
 Installation of redis

@@ -9,5 +9,14 @@ mysql -h endpoint -P 3306 -u admin -p
 Installation of redis
 1. https://docs.aws.amazon.com/AmazonElastiCache/latest/red-ug/nodes-connecting.html
 
+sudo yum install gcc
+wget http://download.redis.io/redis-stable.tar.gz
+tar xvzf redis-stable.tar.gz
+cd redis-stable
+make distclean      # ubuntu systems only
+make
+
 Connection to DB
 https://docs.aws.amazon.com/AmazonElastiCache/latest/red-ug/GettingStarted.ConnectToCacheNode.html
+
+src/redis-cli -h configuration-endpoint -c -p port number

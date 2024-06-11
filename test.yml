@@ -1,0 +1,13 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Resources:
+  MyInstance:
+    Type: AWS::EC2::Instance
+    Properties:
+      ImageId: ami-07caf09b362be10b8  # Update with your desired AMI ID
+      InstanceType: t2.micro           # Update with your desired instance type
+      # Reference the security group created below
+
+Outputs:
+  InstanceId:
+    Description: InstanceId of the newly created EC2 instance
+    Value: !Ref MyInstance

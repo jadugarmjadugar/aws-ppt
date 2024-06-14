@@ -1,0 +1,49 @@
+
+Can you write a docker file
+Create a jenkins pipeline 
+Devops Monitoring questions
+Helm chart
+AWS Services 
+EC2, IAM
+Docker container
+Docker images 
+Docker config file
+Kubernetes architecture 
+Helm , Prometheus
+What is docker?
+What is a dockerfile in docker?
+Types of jobs in jenkins?
+Define maven?
+How to build an image in docker?
+Question on jenkins script?
+
+
+1. What is the difference b/w CMD and RUN in Dockerfile. 
+2. What is the difference b/w CMD and Entrypoint in Dockerfile. 
+3. What is the command to checkout from one branch to another in GIT? 
+4. What is the command to create new branch in GIT? 
+5. Differences b/w Application Load Balancer and Network Load Balancer. 
+6. We have one scenario. 
+◼ We have two branches with names “Master” & “Develop” 
+◼ In Master we have commit 1 and in Develop we have commit 2,3,4. 
+◼ I need to pull the commit 4 from the Develop branch to Master Branch. 
+◼ What is the command to do that? 
+7. We have on scenario. 
+◼ In a system we have a microservices 1  
+◼ We need to have microservices 2 in the system. With having dependencies 
+Ports as an environment variables.  
+◼ How to deploy it? 
+8. Write a Dockerfile  
+
+
+How to deploy microservice in kubernetes (share the screen and write down the steps)
+steps to deploy a microservice which has rds as dependency (write it down)
+how to communicate two microservice internally 
+write jenkins file to deploy app 
+how to handle secrets 
+how to configure server using terraform, how many we need to deploy an application 
+port forwarding
+jump server 
+where we are storing jenkins file and source code ,  write jenkins pipe line
+statefull set with pv 
+steps to deploy app with mongodb data base ...etc

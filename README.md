@@ -5,6 +5,10 @@ Learn Amazon AI - Amazon Q Business- [Link](https://www.udemy.com/course/aws-clo
 Learn Amazon AI - Amazon Q Developer- Coming Soon <br/>
 Solution Architect- Coming Soon <br/> <br/> <br/> <br/> <br/> <br/>
 
+### Buy 1 Get 1 FREE Course (T&C) <br/>
+Connect with me for details
+
+<br/> <br/> <br/> <br/> <br/> <br/>
 ## Financial AID for materials
 
 Fill this form.(T&C)[Link]

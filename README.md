@@ -11,4 +11,4 @@ Connect with me for details
 <br/> <br/> <br/> <br/> <br/> <br/>
 ## Financial AID for materials
 
-Fill this form.(T&C)[Link]
+Fill this form.(T&C)[Link](https://forms.gle/5veuughB3sDLQcAZ8)

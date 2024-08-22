@@ -5,9 +5,7 @@ For daily QnA/Interview question: [Link](https://youtube.com/playlist?list=PLBue
 Learn Amazon AI - Amazon Q Business- [Link](https://www.udemy.com/course/aws-cloud-ai-amazon-q-chatgpt/?referralCode=74484005FE128303504C) <br/>
 Learn Amazon AI - Amazon Q Developer- [Link](https://www.udemy.com/course/aws-ai-series-amazon-q-developer-your-copilot-2024/?referralCode=C7374231916FC658CD38) <br/>
 Solution Architect- Coming Soon <br/> <br/> <br/>
-
-Community Link: https://chat.whatsapp.com/CLWOeMT34D4F89dCIHahzn
-
+
 ### Buy 1 Get 1 FREE Course <br/>
 Connect with me for details
 

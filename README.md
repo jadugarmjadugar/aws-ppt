@@ -4,7 +4,7 @@ Learn Jenkins : [Link](https://www.udemy.com/course/jenkins-cicd-25-jenkinsfile-
 For daily QnA/Interview question: [Link](https://youtube.com/playlist?list=PLBueXmLs5wEOoNp2Gs00DT-WZWKsur0e-&si=Z0jNyeB1HpYpyzq7) <br/>
 Learn Amazon AI - Amazon Q Business- [Link](https://www.udemy.com/course/aws-cloud-ai-amazon-q-chatgpt/?referralCode=74484005FE128303504C) <br/>
 Learn Amazon AI - Amazon Q Developer- [Link](https://www.udemy.com/course/aws-ai-series-amazon-q-developer-your-copilot-2024/?referralCode=C7374231916FC658CD38) <br/>
-Solution Architect- Coming Soon <br/> <br/> <br/>
-
+Solution Architect- Coming Soon <br/> <br/> 
+## PROMOTIONAL OFFER Avail your FREE coupon for any one course.  <br/><br/>
 ### Buy 1 Get 1 FREE Course <br/>
-Connect with me for details
+Connect with me for details - [Link](https://chat.whatsapp.com/CLWOeMT34D4F89dCIHahzn)

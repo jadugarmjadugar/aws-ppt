@@ -25,6 +25,7 @@ src/redis-cli -h configuration-endpoint
 ###################### Valkey (New Documentation)############################
 
 sudo yum install gcc
+wget https://github.com/valkey-io/valkey/archive/refs/tags/7.2.6.tar.gz
 mv 7.2.6.tar.gz valkey-7.2.6.tar.gz
 tar xvzf valkey-7.2.6.tar.gz
 cd valkey-7.2.6

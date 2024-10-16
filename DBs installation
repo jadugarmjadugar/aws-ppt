@@ -21,3 +21,13 @@ https://docs.aws.amazon.com/AmazonElastiCache/latest/red-ug/GettingStarted.Conne
 
 src/redis-cli -h configuration-endpoint
 (remove 6379)
+
+###################### Valkey (New Documentation)############################
+
+sudo yum install gcc
+mv 7.2.6.tar.gz valkey-7.2.6.tar.gz
+tar xvzf valkey-7.2.6.tar.gz
+cd valkey-7.2.6
+make
+src/valkey-cli -c -h mycachecluster.eaogs8.0001.usw2.cache.amazonaws.com
+(remove 6379)

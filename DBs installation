@@ -19,4 +19,5 @@ make
 Connection to DB
 https://docs.aws.amazon.com/AmazonElastiCache/latest/red-ug/GettingStarted.ConnectToCacheNode.html
 
-src/redis-cli -h configuration-endpoint -c -p port number
+src/redis-cli -h configuration-endpoint
+(remove 6379)

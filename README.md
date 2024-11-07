@@ -1,4 +1,4 @@
-## DM me for coupon codes for FREE
+## DM me for coupon codes
 
 YouTube: [Link](https://www.youtube.com/@DevopsWorking) - Learn and subscribe <br />
 Prepare for AWS Interview: 101% Job Guaranteed : [Link](https://www.udemy.com/course/aws-crash-course-101-job-guarantee-worlds-1st-qna-style/?referralCode=158315E9DC5088A66932)  <br />
@@ -9,6 +9,5 @@ Learn 5 DevOps Gitlab Projects : [Link](https://www.udemy.com/course/5-gitlab-sp
 For daily QnA/Interview question: [Link](https://youtube.com/playlist?list=PLBueXmLs5wEOoNp2Gs00DT-WZWKsur0e-&si=Z0jNyeB1HpYpyzq7) <br/>
 Learn Amazon AI - Amazon Q Business- [Link](https://www.udemy.com/course/aws-cloud-ai-amazon-q-chatgpt/?referralCode=74484005FE128303504C) <br/>
 Learn Amazon AI - Amazon Q Developer- [Link](https://www.udemy.com/course/aws-ai-series-amazon-q-developer-your-copilot-2024/?referralCode=C7374231916FC658CD38) <br/>
-## PROMOTIONAL OFFER Avail your FREE coupon for any one course.  <br/><br/>
 ### Buy 1 Get 1 FREE Course <br/>
 Connect with me for details - [Link](https://chat.whatsapp.com/CLWOeMT34D4F89dCIHahzn)

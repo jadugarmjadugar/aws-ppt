@@ -14,4 +14,4 @@ YouTube: [Link](https://www.youtube.com/@DevopsWorking) - Learn and subscribe <b
 3. Bedrock - No Code (Drag n Drop)- [Link](https://www.udemy.com/course/amazon-bedrock-unleash-genai-without-code-100-drag-drop/?referralCode=D55D7889ADB18CEBA446)
 4. Code Bedrock with Amazon Q developer - [Link](https://www.udemy.com/course/amazon-bedrock-with-amazon-q-developer-zero-to-hero-python/?referralCode=6032C5BA71283DEB0723) 
 ### Buy 1 Get 1 FREE Course <br/>
-Connect with me for details - [Link](https://chat.whatsapp.com/CLWOeMT34D4F89dCIHahzn)
+Connect with me for details - [WhatsApp](https://chat.whatsapp.com/CLWOeMT34D4F89dCIHahzn)

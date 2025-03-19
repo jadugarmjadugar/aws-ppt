@@ -23,4 +23,4 @@ sudo - root
 touch - create files
 vi - change/edit files
 yum/apt- to install
-escape key + !wq - to save file
+escape key ---> : !wq - to save file

@@ -3,10 +3,11 @@
 YouTube: [Link](https://www.youtube.com/@DevopsWorking) - Learn and subscribe <br />
 ## DevOps Series
 1. Prepare for AWS Interview: 101% Job Guaranteed : [Link](https://www.udemy.com/course/aws-crash-course-101-job-guarantee-worlds-1st-qna-style/?referralCode=158315E9DC5088A66932)  <br />
-2. Learn GitLab : [Link](https://www.udemy.com/course/gitlab-devops-cicd-pipelines-zero-to-hero-job-ready-2024/?referralCode=3B7B4D58F6013AA5779B) <br />
-3. Learn Jenkins : [Link](https://www.udemy.com/course/jenkins-cicd-25-jenkinsfile-3-projects-interview-prep/?couponCode=E199B73A9E64C65B159D) <br />
-4. Learn 5 DevOps Jenkins Projects: [Link](https://www.udemy.com/course/5-devops-project-jenkins-k8s-docker-aws-sonarqubenexus/?referralCode=FE6D6FF82F9B96CB946E) <br />
-5. Learn 5 DevOps Gitlab Projects : [Link](https://www.udemy.com/course/5-gitlab-spa-project-java-nodejs-php-python-handson-only/?referralCode=408E1F5C5DB9855DFAC2) <br />
+2. Git & Github Interview Prep : [Link](https://www.udemy.com/course/git-github-bootcamp-with-codespace-tothepoint-job-prep-2025/?referralCode=FD7BD74A54EE99639311)  <br />
+3. Learn GitLab : [Link](https://www.udemy.com/course/gitlab-devops-cicd-pipelines-zero-to-hero-job-ready-2024/?referralCode=3B7B4D58F6013AA5779B) <br />
+4. Learn Jenkins : [Link](https://www.udemy.com/course/jenkins-cicd-25-jenkinsfile-3-projects-interview-prep/?couponCode=E199B73A9E64C65B159D) <br />
+5. Learn 5 DevOps Jenkins Projects: [Link](https://www.udemy.com/course/5-devops-project-jenkins-k8s-docker-aws-sonarqubenexus/?referralCode=FE6D6FF82F9B96CB946E) <br />
+6. Learn 5 DevOps Gitlab Projects : [Link](https://www.udemy.com/course/5-gitlab-spa-project-java-nodejs-php-python-handson-only/?referralCode=408E1F5C5DB9855DFAC2) <br />
 
 ## GenAI Series
 1. Learn Amazon AI - Amazon Q Business- [Link](https://www.udemy.com/course/aws-cloud-ai-amazon-q-chatgpt/?referralCode=74484005FE128303504C) <br/>

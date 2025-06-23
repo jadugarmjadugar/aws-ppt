@@ -10,9 +10,9 @@ Installation of redis
 1. https://docs.aws.amazon.com/AmazonElastiCache/latest/red-ug/nodes-connecting.html
 
 sudo yum install gcc
-wget http://download.redis.io/redis-stable.tar.gz
-tar xvzf redis-stable.tar.gz
-cd redis-stable
+wget https://github.com/valkey-io/valkey/archive/refs/tags/8.1.2.tar.gz
+tar xvzf valkey-8.1.2.tar.gz
+cd valkey-8.1.2
 make distclean      # ubuntu systems only
 make
 

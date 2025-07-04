@@ -17,3 +17,15 @@ yum update -y
 yum install nginx -y
 sudo systemctl enable nginx
 sudo systemctl start nginx
+
+###################### Third ########################################
+
+#!/bin/bash
+yum update -y
+yum install httpd -y
+service httpd start
+chkconfig httpd on
+cd /var/www/html
+echo "<html><body>IP address of this instance: $(hostname)" > index.html
+mkdir -p /var/www/html/secondpage
+echo "This is the second page" > /var/www/html/secondpage/index.html

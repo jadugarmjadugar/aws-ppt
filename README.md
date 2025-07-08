@@ -18,7 +18,7 @@
 5. [Learn Jenkins](https://www.udemy.com/course/jenkins-cicd-25-jenkinsfile-3-projects-interview-prep/?couponCode=E199B73A9E64C65B159D) <br />
 6. [Learn 5 DevOps Jenkins Projects](https://www.udemy.com/course/5-devops-project-jenkins-k8s-docker-aws-sonarqubenexus/?referralCode=FE6D6FF82F9B96CB946E) <br />
 7. [Learn 5 DevOps Gitlab Projects](https://www.udemy.com/course/5-gitlab-spa-project-java-nodejs-php-python-handson-only/?referralCode=408E1F5C5DB9855DFAC2) <br />
-8. [Docker DevOps Expert Mastery] (https://www.udemy.com/course/docker-bootcamp-job-interview-worlds-1st-qna-style-2025/?referralCode=8F8D402A643F8E755348)  <br />
+8. [Docker DevOps Expert Mastery](https://www.udemy.com/course/docker-bootcamp-job-interview-worlds-1st-qna-style-2025/?referralCode=8F8D402A643F8E755348)  <br />
 
 ## GenAI Series
 1. [Learn Amazon AI - Amazon Q Business](https://www.udemy.com/course/aws-cloud-ai-amazon-q-chatgpt/?referralCode=74484005FE128303504C) <br/>
